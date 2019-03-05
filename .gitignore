@@ -1,4 +1,6 @@
 # Don't track content of these directories
+/checkpoints
+/summaries
 
 # Specific file types #
 ###################
